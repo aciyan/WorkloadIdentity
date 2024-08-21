@@ -1,0 +1,27 @@
+{
+  "Channel": 1,
+  "EntityDetails": [
+    {
+      "efileStatus": 0,
+      "entityCode": "FD",
+      "entityName": "Federal"
+    }
+  ],
+  "id": "efc3c512-843b-49a7-b63e-01f2cf5e87a0",
+  "OfficeId": "33566",
+  "ReturnLockEntity": {
+    "applicationId": "TAXPREP",
+    "lockGuid": "d49f5e48-ae21-418b-933c-d115717d4610",
+    "lockTimestamp": "2020-09-15T10:32:11.5310073+00:00",
+    "officeId": "33566",
+    "userId": "1001626"
+  },
+  "ReturnType": "US1040",
+  "TaxProId": "1001626",
+  "TaxProPTIN": "P02073558",
+  "TaxReturnGuid": "efc3c512-843b-49a7-b63e-01f2cf5e87a0",
+  "Version": "2.0.0",
+  "TaxpayerClientId": null,
+  "SpouseClientId": null
+}
+

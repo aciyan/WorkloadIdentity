@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1337353a-fe8d-4bc4-9325-71670d811a90": {
+      "ProjectGuid": "1337353a-fe8d-4bc4-9325-71670d811a90",
+      "DisplayName": "TestService.API",
+      "ColorIndex": 0
+    },
+    "5ca7034b-9123-407f-8dd1-ce52a5ae0657": {
+      "ProjectGuid": "5ca7034b-9123-407f-8dd1-ce52a5ae0657",
+      "DisplayName": "TestService.Business",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

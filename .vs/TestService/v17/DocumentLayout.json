@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\testservicemanagerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\testservicemanagerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\managedidentityqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\managedidentityqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\managedidentitycosmosmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\managedidentitycosmosmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\managedidentityblobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\managedidentityblobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\managedidentityapimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\managedidentityapimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\managedidentityadxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\managedidentityadxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\applicationinsightswimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\applicationinsightswimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\workloadidentitysignalrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\workloadidentitysignalrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\workloadidentityredismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\workloadidentityredismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\abstraction\\iworkloadidentitysignalrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\abstraction\\iworkloadidentitysignalrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\abstraction\\iworkloadidentityredismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\abstraction\\iworkloadidentityredismanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\abstraction\\imanagedidentityqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\abstraction\\imanagedidentityqueuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\abstraction\\imanagedidentityblobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\abstraction\\imanagedidentityblobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\abstraction\\imanagedidentityapimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\abstraction\\imanagedidentityapimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\abstraction\\imanagedidentityadxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\abstraction\\imanagedidentityadxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\models\\testdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\models\\testdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.api\\testservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1337353A-FE8D-4BC4-9325-71670D811A90}|TestService.API\\TestService.API.csproj|solutionrelative:testservice.api\\testservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|c:\\onedrive - h\u0026r block ltd\\desktop\\projects\\workloadidentity\\testservice.business\\testservice.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CA7034B-9123-407F-8DD1-CE52A5AE0657}|TestService.Business\\TestService.Business.csproj|solutionrelative:testservice.business\\testservice.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestServiceManagerExtension.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\TestServiceManagerExtension.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\TestServiceManagerExtension.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\TestServiceManagerExtension.cs",
+              "RelativeToolTip": "TestService.Business\\TestServiceManagerExtension.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAkwDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:59:52.846Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagedIdentityAdxManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityAdxManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\ManagedIdentityAdxManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityAdxManager.cs",
+              "RelativeToolTip": "TestService.Business\\ManagedIdentityAdxManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:45:00.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagedIdentityAPIMManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityAPIMManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\ManagedIdentityAPIMManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityAPIMManager.cs",
+              "RelativeToolTip": "TestService.Business\\ManagedIdentityAPIMManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwFMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:45:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagedIdentityBlobManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityBlobManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\ManagedIdentityBlobManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityBlobManager.cs",
+              "RelativeToolTip": "TestService.Business\\ManagedIdentityBlobManager.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswGcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:47:09.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagedIdentityCosmosManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityCosmosManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\ManagedIdentityCosmosManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityCosmosManager.cs",
+              "RelativeToolTip": "TestService.Business\\ManagedIdentityCosmosManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:47:20.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagedIdentityQueueManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityQueueManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\ManagedIdentityQueueManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ManagedIdentityQueueManager.cs",
+              "RelativeToolTip": "TestService.Business\\ManagedIdentityQueueManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:47:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationInsightsWIManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ApplicationInsightsWIManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\ApplicationInsightsWIManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\ApplicationInsightsWIManager.cs",
+              "RelativeToolTip": "TestService.Business\\ApplicationInsightsWIManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:49:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkloadIdentitySignalRManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\WorkloadIdentitySignalRManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\WorkloadIdentitySignalRManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\WorkloadIdentitySignalRManager.cs",
+              "RelativeToolTip": "TestService.Business\\WorkloadIdentitySignalRManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:38:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkloadIdentityRedisManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\WorkloadIdentityRedisManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\WorkloadIdentityRedisManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\WorkloadIdentityRedisManager.cs",
+              "RelativeToolTip": "TestService.Business\\WorkloadIdentityRedisManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:42:47.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWorkloadIdentitySignalRManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IWorkloadIdentitySignalRManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Abstraction\\IWorkloadIdentitySignalRManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IWorkloadIdentitySignalRManager.cs",
+              "RelativeToolTip": "TestService.Business\\Abstraction\\IWorkloadIdentitySignalRManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:44:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWorkloadIdentityRedisManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IWorkloadIdentityRedisManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Abstraction\\IWorkloadIdentityRedisManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IWorkloadIdentityRedisManager.cs",
+              "RelativeToolTip": "TestService.Business\\Abstraction\\IWorkloadIdentityRedisManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:44:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IManagedIdentityQueueManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityQueueManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Abstraction\\IManagedIdentityQueueManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityQueueManager.cs",
+              "RelativeToolTip": "TestService.Business\\Abstraction\\IManagedIdentityQueueManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:43:51.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IManagedIdentityBlobManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityBlobManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Abstraction\\IManagedIdentityBlobManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityBlobManager.cs",
+              "RelativeToolTip": "TestService.Business\\Abstraction\\IManagedIdentityBlobManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:43:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IManagedIdentityAPIMManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityAPIMManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Abstraction\\IManagedIdentityAPIMManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityAPIMManager.cs",
+              "RelativeToolTip": "TestService.Business\\Abstraction\\IManagedIdentityAPIMManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:43:34.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IManagedIdentityAdxManager.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityAdxManager.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Abstraction\\IManagedIdentityAdxManager.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Abstraction\\IManagedIdentityAdxManager.cs",
+              "RelativeToolTip": "TestService.Business\\Abstraction\\IManagedIdentityAdxManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:43:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestDataModel.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Models\\TestDataModel.cs",
+              "RelativeDocumentMoniker": "TestService.Business\\Models\\TestDataModel.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\Models\\TestDataModel.cs",
+              "RelativeToolTip": "TestService.Business\\Models\\TestDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:41:21.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestService.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestService.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T12:04:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestService.Business.csproj",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\TestService.Business.csproj",
+              "RelativeDocumentMoniker": "TestService.Business\\TestService.Business.csproj",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.Business\\TestService.Business.csproj",
+              "RelativeToolTip": "TestService.Business\\TestService.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T11:56:31.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TestService.API\\appsettings.json",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\appsettings.json",
+              "RelativeToolTip": "TestService.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T12:31:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "TestService.API\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "TestService.API\\Controllers\\TestController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwEQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:41:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestService.API.csproj",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\TestService.API.csproj",
+              "RelativeDocumentMoniker": "TestService.API\\TestService.API.csproj",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\TestService.API.csproj",
+              "RelativeToolTip": "TestService.API\\TestService.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T11:56:21.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Startup.cs",
+              "RelativeDocumentMoniker": "TestService.API\\Startup.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Startup.cs",
+              "RelativeToolTip": "TestService.API\\Startup.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:25:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Program.cs",
+              "RelativeDocumentMoniker": "TestService.API\\Program.cs",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\Program.cs",
+              "RelativeToolTip": "TestService.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:27:28.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TestService.API\\appsettings.Development.json",
+              "ToolTip": "C:\\OneDrive - H\u0026R BLOCK LTD\\Desktop\\Projects\\WorkloadIdentity\\TestService.API\\appsettings.Development.json",
+              "RelativeToolTip": "TestService.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T12:31:45.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
